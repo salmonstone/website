@@ -3,7 +3,7 @@ version: 0.2
 env:
   variables:
     AWS_ACCOUNT_ID: "061206535013"
-    REPOSITORY_NAME: "website"
+    REPOSITORY_NAME: "image"
     CONTAINER_NAME: "website"
     CLUSTER_NAME: "websiteclus"
     AWS_DEFAULT_REGION: "eu-north-1"
